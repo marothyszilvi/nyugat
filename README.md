@@ -11,10 +11,10 @@ Description of the files in this repository:
   1. nyugat.htm downloaded from: http://epa.oszk.hu/00000/00022/b1.htm
   2. napkelet.zip from the database of Arcanum Adatbázis Kft., thx for that! See online: https://adtplus.arcanum.hu/hu/collection/Napkelet/
 - Cleaned data:
-  1. nyugat_full.csv (...soon)
-  2. napkelet_full.csv (...soon)
-  3. nyugat_issue-author.csv
-  4. napkelet_issue-author.csv
+  1. nyugat_raw.txt Almost clean data, article titles also included.
+  2. napkelet_raw.txt Almost clean data, article titles and beginning page numbers also included.
+  3. nyugat_issue-author.csv Contains issue-author connections of Nyugat.
+  4. napkelet_issue-author.csv Contains issue-author connections of Napkelet.
 - Network visualizations (Gephi):
   - nyugat_full.png Author-journal issue connections of Nyugat.
   - nyugat_withoutonedegree Author-journal issue connections of Nyugat without one-degree nodes (=authors publishing only once).
