@@ -19,11 +19,11 @@ Description of the files in this repository:
   - nyugat_full.png Author-journal issue connections of Nyugat.
   - nyugat_withoutonedegree Author-journal issue connections of Nyugat without one-degree nodes (=authors publishing only once).
   - nyugat_auth.png Author-author connections of Nyugat.
-  - nyugat_top20btw.png Connections of TOP20 authors of Napkelet by betweenness centrality. (for more details pls chech the slides)
+  - nyugat_top20btw.png Connections of TOP20 authors of Napkelet by betweenness centrality. (for more details pls check the slides)
   - napkelet_full.png Author-journal issue connections of Napkelet.
   - napkelet_withoutonedegree Author-journal issue connections of Napkelet without one-degree nodes (=authors publishing only once).
   - napkelet_auth.png Author-author connections of Napkelet.
   - napkelet_top20btw.png Connections of TOP20 authors of Napkelet by betweenness centrality. (for more details pls check the slides)
   - nyugat-napkelet_full.png Author-journal issue connections of Nyugat and Napkelet.
   - nyugat-napkelet_auth.png Author-author connections of Nyugat and Napkelet.
-  - nyugat-napkelet_top20btw.png Connections of TOP20 authors of Nyugat and Napkelet by betweenness centrality. (for more details pls chech the slides)
+  - nyugat-napkelet_top20btw.png Connections of TOP20 authors of Nyugat and Napkelet by betweenness centrality. (for more details pls check the slides)
