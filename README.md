@@ -15,6 +15,7 @@ Description of the files in this repository:
   2. napkelet_raw.txt Almost clean data, article titles and beginning page numbers also included.
   3. nyugat_issue-author.csv Contains issue-author connections of Nyugat.
   4. napkelet_issue-author.csv Contains issue-author connections of Napkelet.
+  5. nyugat_issue-author-editor.csv Contains issue, author, editor-in-chief, editor (managing editor/editor/editorial board member) and date connections of Nyugat.
 - Network visualizations (Gephi):
   - nyugat_full.png Author-journal issue connections of Nyugat.
   - nyugat_withoutonedegree Author-journal issue connections of Nyugat without one-degree nodes (=authors publishing only once).
